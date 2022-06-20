@@ -12,13 +12,13 @@ The HappyBox device is an open source project inspired by the Proxmark3 and simi
 
 ## Table of Contents:
 
-1. [Required Knowledge]()
-2. [Types of HappyBox's]()
-3. [Tools Needed (and Recommended Materials)]()
-4. [HappyBox Jolly Manual]()
-5. [HappyBox Glee Manual]()
-6. [Building HappyBox Jolly]()
-7. [Building HappyBox Glee]()
+1. [Required Knowledge](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#required-knowledge)
+2. [Types of HappyBox's](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#types-of-happyboxs)
+3. [Tools Needed (and Recommended Materials)](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#tools-needed-and-recommended-materials)
+4. [HappyBox Jolly Manual](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#happybox-jolly-manual)
+5. [HappyBox Glee Manual](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#happybox-glee-manual)
+6. [Building HappyBox Jolly](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#building-jolly)
+7. [Building HappyBox Glee](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#building-glee)
 8. [Coding Jolly]()
 9. [Coding Glee]()
 10. [Customizing Your HappyBox]()
