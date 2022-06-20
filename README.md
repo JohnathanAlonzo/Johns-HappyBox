@@ -13,7 +13,7 @@ The HappyBox device is an open source project inspired by the Proxmark3 and simi
 ## Table of Contents:
 
 1. [Required Knowledge](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#required-knowledge)
-2. [Types of HappyBox's](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#types-of-happyboxs)
+2. [Types of HappyBoxes](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#types-of-happyboxs)
 3. [Tools Needed (and Recommended Materials)](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#tools-needed-and-recommended-materials)
 4. [HappyBox Jolly Manual](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#happybox-jolly-manual)
 5. [HappyBox Glee Manual](https://github.com/JohnathanAlonzo/Johns-HappyBox/blob/main/README.md#happybox-glee-manual)
@@ -30,7 +30,7 @@ The HappyBox device is an open source project inspired by the Proxmark3 and simi
 
 All users of the HappyBox must have a basic understanding of code and electrical knowledge. For those who are making their own HappyBox (either model) must be able to solder without damaging components and can do so safely. You are responsible for your safety when operating or making your HappyBox, so be smart.
 
-## Types of HappyBox's
+## Types of HappyBoxes
 
 At the time of writing, there are two HappyBox devices in development. HappyBox Glee is a simpler version of HappyBox Jolly. Their abilities are listed below.
 
