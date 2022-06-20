@@ -8,7 +8,7 @@ The creator(s) of the HappyBox device do ***not*** support nor condone illegal o
 
 ## About the HappyBox
 
-The HappyBox device is an open source project inspired by the Proxmark3 and similar devices for the use of ethical penetration testing. The creator(s) were interested in existing methods of RFID cloning and were inspired by the Proxmark3 to create open source project to perform the same tasks as needed, but for a fraction of the cost and a fun way to pentest. Plus it is Arduino based! All the materials are easily sourced online and can be put together using simple tools and methods. (Fun fact, the first prototype of the happy box was made in just an hour.)
+The HappyBox device is an open source project inspired by the Proxmark3 and similar devices for the use of ethical penetration testing. The creator(s) were interested in existing methods of RFID cloning and were inspired by the Proxmark3 to create open source project to perform the same tasks as needed, but for a fraction of the cost and a fun way to pentest. Plus it is Arduino based! All the materials are easily sourced online and can be put together using simple tools and methods. (Fun fact, the first prototype of HappyBox Glee was made in just an hour.)
 
 ## Table of Contents:
 
