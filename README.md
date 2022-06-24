@@ -58,21 +58,39 @@ I don't care if you think you are tough and can handle a bit of solder fumes. Us
 
 ## HappyBox Jolly Manual
 
+To be added
+
 ## HappyBox Glee Manual
+
+To be added
 
 ## Building Jolly
 
+Prototype currently in works. Once a working build is comlete it will be posted here. 
+
 ## Building Glee
+
+Prototype currently in works. Once a working build is comlete it will be posted here. 
 
 ## Coding Jolly
 
+Prototype currently in works. Once a working build is comlete it will be posted here. 
+
 ## Coding Glee
+
+Prototype currently in works. Once a working build is comlete it will be posted here. 
 
 ## Customizing Your HappyBox
 
+To be added
+
 ## Common Issues
 
+To be added
+
 ## FAQ
+
+To be added
 
 
 
