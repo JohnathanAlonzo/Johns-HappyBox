@@ -70,7 +70,11 @@ Prototype currently in works. Once a working build is comlete it will be posted 
 
 ## Building Glee
 
-Prototype currently in works. Once a working build is comlete it will be posted here. 
+Since Glee is still in the prototyping stage, there will be no official release. However, there will be beta builds posted here for anyone interested.
+
+### HappyBox Glee Vers.0.1.0
+
+Will add soon
 
 ## Coding Jolly
 
